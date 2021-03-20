@@ -1,4 +1,4 @@
-# Laravel 6 Friendships Package
+# Laravel 6 Friendships Package - Fork from Demency-friendship, which isn't available any more
 
 [![Build Status](https://travis-ci.org/demency/laravel-friendships.svg?branch=master)](https://travis-ci.org/demency/laravel-friendships)  [![codecov](https://codecov.io/gh/demency/laravel-friendships/branch/master/graph/badge.svg)](https://codecov.io/gh/demency/laravel-friendships)  [![Code Climate](https://codeclimate.com/github/demency/laravel-friendships/badges/gpa.svg)](https://codeclimate.com/github/demency/laravel-friendships) [![Test Coverage](https://codeclimate.com/github/demency/laravel-friendships/badges/coverage.svg)](https://codeclimate.com/github/demency/laravel-friendships/coverage) [![Total Downloads](https://img.shields.io/packagist/dt/demency/laravel-friendships.svg?style=flat)](https://packagist.org/packages/demency/laravel-friendships) [![Version](https://img.shields.io/packagist/v/demency/laravel-friendships.svg?style=flat)](https://packagist.org/packages/demency/laravel-friendships) [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
 
